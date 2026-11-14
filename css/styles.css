@@ -1,0 +1,175 @@
+body {
+    background-color: #63544d;         
+}
+
+/* main buttons */
+.cafebutton {
+    background-color: #7c9e8c;
+    color: #f8e8d1;    
+}
+
+a.cafebutton:link, a.cafebutton:visited, button.cafebutton:link, button.cafebutton:visited {
+    background-color: #7c9e8c;
+    color: #f8e8d1; 
+}
+
+a.cafebutton:hover, button.cafebutton:hover {    
+    background-color: #7c9e8cbb;
+    color: #424945;    
+}
+
+/* footer links */
+a.footerlink:link {
+    color: #7c9e8c;    
+    text-decoration: underline;
+}
+
+a.footerlink:visited {
+    color: #867871;    
+    text-decoration: underline;
+}
+
+a.footerlink:hover {
+    color: white;    
+    text-decoration: underline;
+}
+
+/* links for T&C's and carousel review */
+a.other:link {
+    color: #424945;    
+    text-decoration: underline;
+}
+
+a.other:visited {
+    color: #a9b3ae;   
+    text-decoration: underline;
+}
+
+a.other:hover {
+    color: #779685;    
+    text-decoration: underline;
+}
+
+/* header */
+header {
+    background-image: url(../img/design/leaves.jpg);     
+    background-size: cover;       
+    color: #f8e8d1;
+    padding: 30px;
+}
+
+.shadow {
+    background-color: #00000030;    
+}
+
+.logo {
+    max-height: 200px;
+}
+
+header h1 {
+    font: 54px "Parisienne", serif;
+}
+
+header h2 {
+    font: italic 28px "Lora", serif;
+}
+
+/* navbar */
+.navbar {
+    background-color: #2f2825;
+    color: #f8e8d1;
+    font: 19px "Lora", serif;
+}
+
+/* login modal & event modal */
+.modal-header {
+    background-color: #7c9e8c;
+    color: #f8e8d1;
+}
+
+.modal-content {    
+    font-family: "Lora", serif;
+}
+
+/* event modal only */
+#numbernote {
+    font: italic 16px "Lora", serif;    
+}
+
+/* hero image */
+.hero-image {         
+    height: 800px;  
+    background: url(../img/heroimage.jpg);    
+    background-position: top center;  
+    background-repeat: no-repeat;     
+}
+
+.hero-text {
+    background-color: #00000085;         
+    color: #f8e8d1;   
+}
+
+.hero-text > h2 {
+    font: italic 48px "Lora", serif;   
+}
+
+.hero-text > h3 {
+    font: 30px "Lora", serif;   
+}
+
+/* featured items */
+.featured {    
+    font: italic 40px "Lora", serif;
+    color: #f8e8d1;      
+}
+
+/* carousel */
+.carousel {
+    border: black;
+    outline: 5px groove #f8e8d1;    
+    border-radius: 1px;
+}
+
+.carousel-background {
+    background-image: url(../img/autumn/autumn_leaves.avif);     
+    border-top-left-radius: 280px;     
+    border-bottom-right-radius: 280px;    
+}
+
+.carousel-images {   
+    margin: 25px auto 50px;    
+    min-height: 100px;
+}
+
+.carousel-caption {
+    background-color: #2f282599;
+    color: #f8e8d1;
+    font-family: "Lora", serif;       
+}
+
+/* subscribe */
+.subscribe {
+    color: #f8e8d1;
+    font-family: "Lora", serif;
+}
+
+#subscribe-header  {    
+    font: 24px "Lora", serif; 
+}
+
+#subscribe-details  {    
+    font: italic 19px "Lora", serif; 
+}
+
+/* footer */
+footer {
+    background-color: #00000095;
+    color: #f8e8d1; 
+    font: 18px "Lora", serif; 
+    padding: 40px;  
+}
+
+.fa-brands {
+    color: #f8e8d1;
+}
+
