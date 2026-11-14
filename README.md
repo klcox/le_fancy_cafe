@@ -18,6 +18,7 @@ Font Awesome
 Google Fonts (Parisienne and Lora)
 
 ## Project Structure
+``` text
 le_fancy_cafe/
 ├── css/
 │   └── styles.css
@@ -29,6 +30,7 @@ le_fancy_cafe/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ## Screenshots
 
