@@ -10,12 +10,12 @@ A responsive cafe website inspired by the charm and elegance of Paris. Le Fancy 
 - Social media links and contact information
 
 ## Core Technologies
-HTML5
-CSS3
-Bootstrap 5
-JavaScript
-Font Awesome
-Google Fonts (Parisienne and Lora)
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- Font Awesome
+- Google Fonts (Parisienne and Lora)
 
 ## Project Structure
 ``` text
